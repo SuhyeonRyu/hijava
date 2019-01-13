@@ -1,5 +1,7 @@
 package hijava.practice;
 
+// test
+
 public class Cbvr {
 	int m = 2;
 	
