@@ -1,5 +1,7 @@
 package hijava.practice;
 
+// 할글 출력 및 화면 테스트 
+
 public class Str {
 
 	public static void main(String[] args) {
