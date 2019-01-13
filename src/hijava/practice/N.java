@@ -1,5 +1,8 @@
 package hijava.practice;
 
+//  suhyeon Ryu
+
+
 public class N {
 
 	int x = 10;
