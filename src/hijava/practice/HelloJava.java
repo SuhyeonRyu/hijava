@@ -1,15 +1,15 @@
 package hijava.practice;
 
 /**
- * date : 2019-01-12
- * @author Su
+ * 
+ * 
  * start
  */
 
 public class HelloJava {
 
 	public static void main(String[] args) {
-//		Hello Java say ¿¡°Ô ¸í·É¾î 
+//		Hello Java say ë¬¸ìì—´ 
 		HelloJava.say("Hi~");
 		System.out.println("Hello Java!!");
 	}

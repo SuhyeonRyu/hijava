@@ -17,5 +17,6 @@ public class Str {
 		System.out.println("AB��".getBytes().length);
 		System.out.println("��".getBytes().length);
 	}
+	
 
 }
